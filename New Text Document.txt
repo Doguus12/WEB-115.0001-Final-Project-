@@ -1,5 +1,0 @@
-Try This in FileZilla:
-
-Host: wcet.waketech.edu
-Username: Dmetin
-Password: DoMet5772
